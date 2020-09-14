@@ -11,7 +11,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(3).pdf" style="text-decoration:none;">Classification-based Financial Markets Prediction using Deep Neural Networks</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(4).pdf" style="text-decoration:none;">A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(5).pdf" style="text-decoration:none;">Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(6).pdf" style="text-decoration:none;">DEEP HEDGING</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(6).pdf" style="text-decoration:none;"> Deep Hedging</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(7).pdf" style="text-decoration:none;">Financial Trading as a Game:
 A Deep Reinforcement Learning Approach</a></li>
 
