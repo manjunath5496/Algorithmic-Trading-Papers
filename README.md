@@ -42,4 +42,25 @@ Learning Based on GPU</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(20).pdf" style="text-decoration:none;"> Neural Networks</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(21).pdf" style="text-decoration:none;">Deep Residual Learning for Portfolio Optimization: With Attention and Switching Modules</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(28).pdf" style="text-decoration:none;">The distribution of ignorance on financial markets</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(23).pdf" style="text-decoration:none;">Algorithmic Trading: High Frequency and Low Frequency Trading</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(24).pdf" style="text-decoration:none;">An Algorithmic Approach for and Special Characteristics of Veno-Venous Extracorporeal Life Support in Patients With Severe Asthma Attack: A Case Report and Review of the Literature</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(25).pdf" style="text-decoration:none;"> Backtesting of Algorithmic Cryptocurrency Trading Strategies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-Papers/blob/master/algt(27).pdf" style="text-decoration:none;">Profitable Algorithmic Trading Strategies in Mean-Reverting Markets</a></li>
+
+
+
+
+
+
+
+
+
+
 </ul>
